@@ -1,0 +1,5 @@
+main: me.gabriel.gfacmina.Main
+version: 1.0
+name: gFacMina
+author: Gab_Alves
+depend: [MassiveCore, Factions, Vault, PlayerPoints]

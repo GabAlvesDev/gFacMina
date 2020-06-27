@@ -1,0 +1,5 @@
+Config:
+  Mundo: 'mina'
+  Chance:
+    Moeda-Repair: 1.5
+    Apple-Dourada: 0.5
